@@ -24,7 +24,7 @@ body{
     width:1500px;
     height: 500px;
     border: none;
-    background-image: url(/gaming.png);
+    background-image: url('gaming.png');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
