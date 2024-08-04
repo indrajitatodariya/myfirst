@@ -21,7 +21,7 @@ h1{
     justify-content: center;
     align-items: center;
     transition: all ease-in-out 0.5s;
-    background-image: url(gaming.png);
+    background-image: url('gaming.png');
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -40,7 +40,7 @@ h1{
     justify-content: center;
     align-items: center;
     transition: all ease-in-out 0.5s;
-    background-image: url(/movie.jpg);
+    background-image: url('movie.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -61,7 +61,7 @@ h1{
     justify-content: center;
     align-items: center;
     transition: all ease-in-out 0.5s;
-    background-image: url(/song.png);
+    background-image: url('song.png');
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -80,7 +80,7 @@ h1{
     justify-content: center;
     align-items: center;
     transition: all ease-in-out 0.5s;
-    background-image: url(/book.png);
+    background-image: url('book.png');
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -99,7 +99,7 @@ h1{
     justify-content: center;
     align-items: center;
     transition: all ease-in-out 0.5s;
-    background-image: url(/anime.jpg);
+    background-image: url('anime.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 15px;
